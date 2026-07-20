@@ -16,25 +16,6 @@ I'm a software developer passionate about building scalable web and mobile appli
 
 ---
 
-## 🚀 Featured Projects
-
-- 🏠 Residence Maintenance Management System (Python, Flask, SQLite)
-- 🎫 HelpDesk Management System (PHP, MySQL)
-- 🍖 Mnce Shisanyama Mobile App (Flutter, Dart, Firebase)
-- 🤖 AI Skills Hub (ASP.NET MVC, SQL Server)
-- 🌱 DUT GreenTrack Mobile App (Flutter, Firebase)
-
----
-
-## 🌱 Currently Learning
-
-- Cloud Computing
-- DevOps
-- Artificial Intelligence
-- Software Architecture
-
----
-
 ## 🎯 Career Interests
 
 - Full Stack Development
