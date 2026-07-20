@@ -11,11 +11,12 @@ I'm a software developer passionate about building scalable web and mobile appli
 
 ## 🎯 Career Interests
 
-- Full Stack Development
-- Backend Development
-- Mobile Application Development
-- Cloud Technologies
-- Software Engineering
+- Full Stack Development Expertise: Demonstrated ability to work across the entire application stack, from frontend to backend.
+- Mobile Application Development: Explicit mention and inclusion of mobile development technologies like Dart and Flutter.
+- Scalable Solutions: Passion for building applications that can handle growth and increased load.
+- Problem-Solving Focus: Commitment to developing applications that address real-world challenges.
+- User-Centric Design: Emphasis on creating clean and user-friendly solutions.
+- Continuous Learning: Enjoyment in exploring and integrating new technologies.
 
 ---
 
