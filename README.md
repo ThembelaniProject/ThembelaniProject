@@ -1,4 +1,4 @@
-![Uploading 905-ingles-para-programacion-mgpanel-1-.jpg…]()
+![image alt](https://github.com/ThembelaniProject/ThembelaniProject/blob/main/905-ingles-para-programacion-mgpanel-1-.jpg?raw=true)
 
 
 # Hi, I'm Thembelani Buthelezi 👋
