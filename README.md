@@ -47,9 +47,9 @@ I'm a software developer passionate about building scalable web and mobile appli
 
 ## 📫 Connect With Me
 
-- 📧 Email: **your-email@example.com**
-- 💼 LinkedIn: **https://linkedin.com/in/your-profile**
-- 🌐 Portfolio: **https://your-portfolio.com**
+- 📧 Email: **thembelanibuthelezi64@gmail.com**
+- 💼 LinkedIn: **https://www.linkedin.com/in/thembelani-buthelezi-574205133/**
+- 🌐 Portfolio: **https://thembelani-buthelezi.netlify.app/**
 
 ---
 
